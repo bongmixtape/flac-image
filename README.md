@@ -9,4 +9,4 @@ Learn more about FLAC's [APPLICATION metadata blocks](https://xiph.org/flac/form
 ### dependencies
 * libflac
 
-For windows users, you can find `unistd.h` in Gnu [Flex](https://sourceforge.net/projects/gnuwin32/).
+For windows users: you can find a copy of `unistd.h` in Gnu [Flex](https://sourceforge.net/projects/gnuwin32/).
